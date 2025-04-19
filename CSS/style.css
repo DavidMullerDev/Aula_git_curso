@@ -1,3 +1,6 @@
 h1 {
     color: red;
+    padding: 30px 40px;
+    background-color: yellow;
+    border-radius: 12px;
 }
